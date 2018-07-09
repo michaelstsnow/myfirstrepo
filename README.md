@@ -5,3 +5,6 @@ What will be next.
 
 Maybe what I can do is keep my notes in a Git repo that could be cool :) 
 
+
+Now I am making an edit in my Github Repo directly to see how a pull works
+
